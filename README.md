@@ -10,7 +10,7 @@
   <img src="https://streak-stats.demolab.com?user=WNCMYN&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WNCMYN&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="Languages utilisés"  />
 </div>
-<img src="https://raw.githubusercontent.com/ludecieldev/ludecieldev/output/snake.svg" alt="Snake animation" />
+
 
 <!--
 **WNCMYN/WNCMYN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,13 +48,21 @@ Here are some ideas to get you started:
   <img width="12"/>
   <img src="https://www.svgrepo.com/show/475654/github-color.svg" height="50">
   <img width="12"/>
-  <img src="https://www.svgrepo.com/show/475656/google-color.svg height="50">
+  <img src="https://www.svgrepo.com/show/382723/google.svg" height="50">
   <img width="12"/>
   <img src="https://www.svgrepo.com/show/475640/chrome-color.svg" height="50">
   <img width="12"/>
-  <img src="https://www.svgrepo.com/show/382713/windows-applications.svg" height="50">
+  <img src="https://www.svgrepo.com/show/306517/opensuse.svg" height="50">
+  <img width="12"/>
+  <img src="https://www.svgrepo.com/show/355338/ubuntu.svg" height="50">
+  <img width="12"/>
+  <img src="https://www.svgrepo.com/show/354912/debian.svg" height="50">
+  <img width="12"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/brawl-stars-star-1.svg" height="50">
+  <img width="12"/>
+  <img src="https://www.svgrepo.com/show/349429/kodi.svg" height="50">
   <img width="12"/>
 </div>
 
-
+<img src="https://raw.githubusercontent.com/ludecieldev/ludecieldev/output/snake.svg" alt="Snake animation" />
 
