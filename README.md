@@ -1,4 +1,5 @@
-## Hi there 👋
+![Hello](hello.svg)
+
 
 
 <h1 align="left"> 📍 My Github's Stats </h1>
@@ -12,6 +13,7 @@
 <img src="https://raw.githubusercontent.com/ludecieldev/ludecieldev/output/snake.svg" alt="Snake animation" />
 <img src="https://skyline.github.com/WNCMYN/2024" alt="GitHub Skyline">
 ![](./profile-3d-contrib/profile-green-animate.svg)
+
 <!--
 **WNCMYN/WNCMYN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,3 +28,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![svg](https://raw.githubusercontent.com/WNCMYN/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg)
