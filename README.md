@@ -11,8 +11,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WNCMYN&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="Languages utilisés"  />
 </div>
 <img src="https://raw.githubusercontent.com/ludecieldev/ludecieldev/output/snake.svg" alt="Snake animation" />
-<img src="https://skyline.github.com/WNCMYN/2024" alt="GitHub Skyline">
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!--
 **WNCMYN/WNCMYN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,5 +26,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="left">🔭 | My topics</h1>
+<div align="left">
+  <img src="https://www.svgrepo.com/show/373528/cpp3.svg" height="50">
+  <img width="12"/>
+  <img src="https://www.svgrepo.com/show/452091/python.svg" height="50">
+  <img width="12"/>
+  <img src="https://www.svgrepo.com/show/452228/html-5.svg" height="50">
+  <img width="12"/>
+  <img src="https://www.svgrepo.com/show/452185/css-3.svg" height="50">
+  <img width="12"/>
+  <img src="https://www.svgrepo.com/show/448236/linux.svg" height="50">
+  <img width="12"/>
+  <img src="https://www.svgrepo.com/show/342071/notion.svg" height="50">
+  <img width="12"/>
+  <img src="https://www.svgrepo.com/show/349299/apple-music.svg" height="50">
+  <img width="12"/>
+  <img src="https://www.svgrepo.com/show/373989/powerpoint.svg" height="50">
+  <img width="12"/>
+  <img src="https://www.svgrepo.com/show/382713/windows-applications.svg" height="50">
+  <img width="12"/>
+  <img src="https://www.svgrepo.com/show/475654/github-color.svg" height="50">
+  <img width="12"/>
+  <img src="https://www.svgrepo.com/show/475656/google-color.svg height="50">
+  <img width="12"/>
+  <img src="https://www.svgrepo.com/show/475640/chrome-color.svg" height="50">
+  <img width="12"/>
+  <img src="https://www.svgrepo.com/show/382713/windows-applications.svg" height="50">
+  <img width="12"/>
+</div>
 
-![svg](https://raw.githubusercontent.com/WNCMYN/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg)
+
+
