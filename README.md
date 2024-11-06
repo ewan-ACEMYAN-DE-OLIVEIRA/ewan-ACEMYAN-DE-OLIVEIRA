@@ -1,3 +1,7 @@
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c65987&height=120&section=header" alt="header"/> 
+
+
 ![Hello](hello.svg)
 
 
@@ -16,48 +20,45 @@
   </a> 
 </p>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 <h1 align="left">🔭 | My topics</h1>
 <div align="left">
   <img src="https://www.svgrepo.com/show/373528/cpp3.svg" height="50">
   <img width="12"/>
   <img src="https://techstack-generator.vercel.app/python-icon.svg" height="50">
   <img width="12"/>
-  <img src="https://www.svgrepo.com/show/452228/html-5.svg" height="50">
-  <img width="12"/>
   <img src="https://www.svgrepo.com/show/452185/css-3.svg" height="50">
+  <img width="12"/>
+  <img src="https://www.svgrepo.com/show/475654/github-color.svg" height="50">
+  <img width="12"/>
+  <img src="https://www.svgrepo.com/show/382713/windows-applications.svg" height="50">
   <img width="12"/>
   <img src="https://www.svgrepo.com/show/448236/linux.svg" height="50">
   <img width="12"/>
   <img src="https://www.svgrepo.com/show/342071/notion.svg" height="50">
   <img width="12"/>
+  <img src="https://www.svgrepo.com/show/306517/opensuse.svg" height="50">
+  <img width="12"/>
   <img src="https://www.svgrepo.com/show/349299/apple-music.svg" height="50">
   <img width="12"/>
   <img src="https://www.svgrepo.com/show/373989/powerpoint.svg" height="50">
   <img width="12"/>
-  <img src="https://www.svgrepo.com/show/382713/windows-applications.svg" height="50">
-  <img width="12"/>
-  <img src="https://www.svgrepo.com/show/475654/github-color.svg" height="50">
-  <img width="12"/>
-  <img src="https://www.svgrepo.com/show/382723/google.svg" height="50">
-  <img width="12"/>
-  <img src="https://www.svgrepo.com/show/475640/chrome-color.svg" height="50">
-  <img width="12"/>
-  <img src="https://www.svgrepo.com/show/306517/opensuse.svg" height="50">
+  <img src="https://www.svgrepo.com/show/452228/html-5.svg" height="50">
   <img width="12"/>
   <img src="https://www.svgrepo.com/show/355338/ubuntu.svg" height="50">
   <img width="12"/>
   <img src="https://www.svgrepo.com/show/354912/debian.svg" height="50">
+  <img width="12"/>
+  <img src="https://www.svgrepo.com/show/382723/google.svg" height="50">
+  <img width="12"/>
+  <img src="https://www.svgrepo.com/show/475640/chrome-color.svg" height="50">
   <img width="12"/>
   <img src="https://cdn.worldvectorlogo.com/logos/brawl-stars-star-1.svg" height="50">
   <img width="12"/>
   <img src="https://www.svgrepo.com/show/349429/kodi.svg" height="50">
   <img width="12"/>
 </div>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h1 align="left">🏆 | My trophies</h1>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=WNCMYN&theme=onedark&no-frame=true&no-bg=true&margin-w=15&column=5"</p>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <img src="https://raw.githubusercontent.com/ludecieldev/ludecieldev/output/snake.svg" alt="Snake animation" />
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c65987&height=120&section=footer" alt="footer"/>
