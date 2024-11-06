@@ -22,7 +22,7 @@
 
 <h1 align="left">🔭 | My topics</h1>
 <div align="left">
-  <img src="https://www.svgrepo.com/show/373528/cpp3.svg" height="50">
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" height="50">
   <img width="12"/>
   <img src="https://techstack-generator.vercel.app/python-icon.svg" height="50">
   <img width="12"/>
