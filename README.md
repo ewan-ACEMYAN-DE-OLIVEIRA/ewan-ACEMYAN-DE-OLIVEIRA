@@ -4,33 +4,25 @@
 
 <h1 align="left"> 📍 My Github's Stats </h1>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WNCMYN&show_icons=true&theme=radical" height="150" alt="Les statistiques GitHub de votre nom d'utilisateur">
   <img src="https://streak-stats.demolab.com?user=WNCMYN&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WNCMYN&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="Languages utilisés"  />
 </div>
+<p align="center">
+  <a href="https://github.com/WNCMYN">
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=WNCMYN&bg_color=141321&color=bc4c5b&line=c65987&point=FFFFFF&area_color=bc4c5b&border_radius=24.5&title_color=bc4c5b&border_radius=20px"/>
+  </a> 
+</p>
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<!--
-**WNCMYN/WNCMYN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="left">🔭 | My topics</h1>
 <div align="left">
   <img src="https://www.svgrepo.com/show/373528/cpp3.svg" height="50">
   <img width="12"/>
-  <img src="https://www.svgrepo.com/show/452091/python.svg" height="50">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" height="50">
   <img width="12"/>
   <img src="https://www.svgrepo.com/show/452228/html-5.svg" height="50">
   <img width="12"/>
@@ -63,6 +55,9 @@ Here are some ideas to get you started:
   <img src="https://www.svgrepo.com/show/349429/kodi.svg" height="50">
   <img width="12"/>
 </div>
-
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<h1 align="left">🏆 | My trophies</h1>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=WNCMYN&theme=onedark&no-frame=true&no-bg=true&margin-w=15&column=5"</p>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <img src="https://raw.githubusercontent.com/ludecieldev/ludecieldev/output/snake.svg" alt="Snake animation" />
 
