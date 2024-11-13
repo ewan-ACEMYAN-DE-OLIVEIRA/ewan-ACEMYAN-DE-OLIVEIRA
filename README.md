@@ -54,6 +54,8 @@
   <img width="12"/>
   <img src="https://cdn.worldvectorlogo.com/logos/brawl-stars-star-1.svg" height="50">
   <img width="12"/>
+  <img src="https://www.svgrepo.com/show/374093/sql.svg" height="50">
+  <img width="12"/>
   <img src="https://www.svgrepo.com/show/349429/kodi.svg" height="50">
   <img width="12"/>
 </div>
