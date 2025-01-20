@@ -10,13 +10,13 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WNCMYN&show_icons=true&theme=radical" height="150" alt="Les statistiques GitHub de votre nom d'utilisateur">
-  <img src="https://streak-stats.demolab.com?user=WNCMYN&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ewan-ACEMYAN-DE-OLIVEIRA&show_icons=true&theme=radical" height="150" alt="Les statistiques GitHub de votre nom d'utilisateur">
+  <img src="https://streak-stats.demolab.com?user=ewan-ACEMYAN-DE-OLIVEIRA&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WNCMYN&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="Languages utilisés"  />
 </div>
 <p align="center">
-  <a href="https://github.com/WNCMYN">
-    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=WNCMYN&bg_color=141321&color=bc4c5b&line=c65987&point=FFFFFF&area_color=bc4c5b&border_radius=24.5&title_color=bc4c5b&border_radius=20px"/>
+  <a href="https://github.com/ewan-ACEMYAN-DE-OLIVEIRA">
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=ewan-ACEMYAN-DE-OLIVEIRA&bg_color=141321&color=bc4c5b&line=c65987&point=FFFFFF&area_color=bc4c5b&border_radius=24.5&title_color=bc4c5b&border_radius=20px"/>
   </a> 
 </p>
 
@@ -60,7 +60,7 @@
   <img width="12"/>
 </div>
 <h1 align="left">🏆 | My trophies</h1>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=WNCMYN&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=5"</p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ewan-ACEMYAN-DE-OLIVEIRA&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=5"</p>
 <img src="https://raw.githubusercontent.com/ludecieldev/ludecieldev/output/snake.svg" alt="Snake animation" />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c65987&height=120&section=footer" alt="footer"/>
