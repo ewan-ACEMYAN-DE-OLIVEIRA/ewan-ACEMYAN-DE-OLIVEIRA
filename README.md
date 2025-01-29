@@ -12,7 +12,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ewan-ACEMYAN-DE-OLIVEIRA&show_icons=true&theme=radical" height="150" alt="Les statistiques GitHub de votre nom d'utilisateur">
   <img src="https://streak-stats.demolab.com?user=ewan-ACEMYAN-DE-OLIVEIRA&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WNCMYN&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="Languages utilisés"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ewan-ACEMYAN-DE-OLIVEIRA&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="Languages utilisés"  />
 </div>
 <p align="center">
   <a href="https://github.com/ewan-ACEMYAN-DE-OLIVEIRA">
