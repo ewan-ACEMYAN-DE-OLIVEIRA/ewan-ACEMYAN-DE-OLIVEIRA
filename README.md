@@ -58,6 +58,8 @@
   <img width="12"/>
   <img src="https://www.svgrepo.com/show/349429/kodi.svg" height="50">
   <img width="12"/>
+
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
 </div>
 <h1 align="left">🏆 | My trophies</h1>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ewan-ACEMYAN-DE-OLIVEIRA&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=5"</p>
