@@ -62,7 +62,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="Skills_Animation_Dark.gif">
 </div>
 <h1 align="left">🏆 | My trophies</h1>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ewan-ACEMYAN-DE-OLIVEIRA&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=5"</p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ewan-ACEMYAN-DE-OLIVEIRA&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=5"></p>
 <img src="https://raw.githubusercontent.com/ludecieldev/ludecieldev/output/snake.svg" alt="Snake animation" />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c65987&height=120&section=footer" alt="footer"/>
